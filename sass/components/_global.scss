@@ -1,0 +1,14 @@
+.section-title {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.17;
+	text-align: center;
+
+	color: var(--primary-text-color);
+}
+
+.flex {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
